@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, Welcome to visit! 👋
 
-<!--
-**gukt/gukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 15+ years developer. I like coding.
 
-Here are some ideas to get you started:
+Here are some of projects i'v developed:
+- TODO
+- TODO
+- TODO
 
+About:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Contact:
+- Email: gukaitong@gmail.com, 29283212@qq.com
+- Wechat: id9527
+- Twitter: @gukaitong
